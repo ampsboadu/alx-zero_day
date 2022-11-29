@@ -1,1 +1,1 @@
-My first readme
+Trying out git/github from linux terminal
